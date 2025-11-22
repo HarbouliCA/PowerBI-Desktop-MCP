@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "powerbi-desktop-readonly": {
+      "command": "C:\\Users\\alabe\\OneDrive\\Escritorio\\PowerBi MCP\\powerbi-desktop-mcp-readonly-2.0.10.exe",
+      "args": [],
+      "type": "stdio",
+      "description": "PowerBI Desktop MCP Server (Read-Only) - Safe exploration and analysis of Power BI models"
+    },
+    "powerbi-desktop-full": {
+      "command": "C:\\Users\\alabe\\OneDrive\\Escritorio\\PowerBi MCP\\powerbi-desktop-mcp-2.0.10.exe",
+      "args": [],
+      "type": "stdio",
+      "description": "PowerBI Desktop MCP Server (Full) - Complete access with create/update/delete capabilities",
+      "disabled": true
+    }
+  }
+}
